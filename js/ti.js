@@ -20,11 +20,11 @@ $(document).ready(function () {
     });
 
     instagram.click(function(){
-        location.href= "https://www.instagram.com/taeilkim_/?hl=ko";
+        location.href= "https://www.instagram.com/?hl=ko";
     });
 
     facebook.click(function(){
-        location.href= "https://www.facebook.com/xodlfsha";
+        location.href= "https://www.facebook.com";
     });
 
     google.click(function(){
